@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "68511178621",
+    "firebase_url": "https://secapafutsal-a98fa.firebaseio.com",
+    "project_id": "secapafutsal-a98fa",
+    "storage_bucket": "secapafutsal-a98fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68511178621:android:ac24ce26240396c4",
+        "android_client_info": {
+          "package_name": "co.id.android.secapafutsal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68511178621-c69tvcilgo3m2oqo84afounj9toh7ma5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.id.android.secapafutsal",
+            "certificate_hash": "ae45cecb14385f310b557be09e878bc448b31d7d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSsV3NyxCTIkRI7WfIk5RxVRBCHCf2RFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68511178621-qsj6rfp4c7l0nguj2pbqo6tjndeutoq2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
